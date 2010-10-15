@@ -5,3 +5,4 @@ User specialunderwear owns the following projects:
 
 django-easymode
 robotlegs-dungdungdung
+as3-mixin
